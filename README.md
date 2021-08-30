@@ -5,7 +5,7 @@
 - Right click [this link](https://github.com/FandomGold/fango-checkpoints/raw/master/checkpoints.csv) and choose `Save link as...` to download the latest checkpoints.csv.
 - Place checkpoints.csv in the same folder as your Fangod daemon
 - You can get Fandod from here if you don't have it already: https://github.com/FandomGold/fango/releases 
-- Make sure you shut down any GUI wallets, or any other instances of Nibbled.
+- Make sure you shut down any GUI wallets, or any other instances of Fangod.
 
 #### Windows
 - Open a command prompt in the same directory as Fangod.exe .
